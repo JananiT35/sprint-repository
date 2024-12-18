@@ -66,6 +66,7 @@ public class Adhaar {
         } else {
             System.out.println("Invalid");
         }
+        System.out.println("sts check github");
     }
 }
 
